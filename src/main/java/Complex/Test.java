@@ -7,10 +7,11 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
  */
 public class Test {
     public static void main(String[] args) {
-        AnnotationConfigApplicationContext  context = new AnnotationConfigApplicationContext(Application.class);
-        System.out.println(context);
+        AnnotationConfigApplicationContext  context;
+        context = new AnnotationConfigApplicationContext(Application.class);
 
         NotificationService service= context.getBean(NotificationService.class);
+
         service.sendNotification("megha.gupta2205@gmail.com", "HI");
 
         context.close();

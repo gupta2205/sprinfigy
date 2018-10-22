@@ -1,6 +1,6 @@
 package Complex;
 
-import Complex.email.emailService;
+import Complex.email.EmailService;
 import org.springframework.stereotype.Component;
 
 /**
@@ -10,12 +10,12 @@ import org.springframework.stereotype.Component;
 @Component
 public class NotificationService {
 
-    private emailService emailService;
-    public void NotificationService(emailService emailService){
+    private EmailService emailService;
+    public NotificationService(EmailService emailService){
         this.emailService= emailService;
     }
-    public void sendNotification(String To, String message){
-    emailService.sendEmail(To,message);
+    public void sendNotification(String to, String message){
+    this.emailService.sendEmail(to,message);
 
     }
 }
