@@ -3,14 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="29eaa9bb-ea78-4bde-914a-d046f229cca6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Complex/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Complex/NotificationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Complex/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Complex/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Complex/email/emailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Complex/email/EmailService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Complex/email/emailServiceClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Complex/email/emailServiceClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/meghatest/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/meghatest/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/meghatest/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/meghatest/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Complex/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/meghatest/Complex/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Complex/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/meghatest/Complex/NotificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Complex/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/meghatest/Complex/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Complex/email/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/meghatest/Complex/email/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Complex/email/emailServiceClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/meghatest/Complex/email/emailServiceClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -88,7 +85,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Complex/Application.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/meghatest/Complex/Application.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
@@ -99,17 +96,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Complex/Test.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/meghatest/Complex/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="30">
+              <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Complex/NotificationService.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/meghatest/Complex/NotificationService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
@@ -123,7 +120,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Complex/email/EmailService.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/meghatest/Complex/email/EmailService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="19" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="19" />
@@ -131,8 +128,8 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Complex/email/emailServiceClass.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/meghatest/Complex/email/emailServiceClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
@@ -187,6 +184,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Complex/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/Complex/NotificationService.java" />
         <option value="$PROJECT_DIR$/src/main/java/Complex/email/emailServiceClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/meghatest/Complex/Application.java" />
       </list>
     </option>
   </component>
@@ -257,7 +255,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Complex" type="462c0819:PsiDirectoryNode" />
+              <item name="meghatest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springify" type="b2602c69:ProjectViewProjectNode" />
@@ -265,8 +263,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="meghatest" type="462c0819:PsiDirectoryNode" />
               <item name="Complex" type="462c0819:PsiDirectoryNode" />
-              <item name="email" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springify" type="b2602c69:ProjectViewProjectNode" />
@@ -281,7 +279,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540250704230" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540250944496" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -298,7 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="Application.Test (2)">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.meghatest.Simple.Application" />
       <module name="springify" />
@@ -325,6 +323,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.meghatest.Complex.Test" />
+      <module name="springify" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.meghatest.Complex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.meghatest.Simple.Test" />
       <module name="springify" />
@@ -342,9 +353,11 @@
       <item itemvalue="Application.Application" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Application" />
@@ -362,12 +375,12 @@
       <option name="presentableId" value="Default" />
       <updated>1540239342441</updated>
       <workItem from="1540239343729" duration="3147000" />
-      <workItem from="1540246438708" duration="3215000" />
+      <workItem from="1540246438708" duration="3903000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6362000" />
+    <option name="totallyTimeSpent" value="7050000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -464,24 +477,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Complex/email/EmailService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/meghatest/Complex/email/EmailService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Complex/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Complex/NotificationService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/meghatest/Complex/NotificationService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
@@ -493,17 +496,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Complex/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Complex/email/emailServiceClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/meghatest/Complex/email/emailServiceClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/meghatest/Complex/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/meghatest/Complex/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
         </state>
       </provider>
     </entry>

@@ -1,6 +1,6 @@
-package Complex;
+package io.meghatest.Complex;
 
-import Complex.email.EmailService;
+import io.meghatest.Complex.email.EmailService;
 import org.springframework.stereotype.Component;
 
 /**

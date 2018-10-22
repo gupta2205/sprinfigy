@@ -1,4 +1,4 @@
-package Complex.email;
+package io.meghatest.Complex.email;
 
 import org.springframework.stereotype.Component;
 

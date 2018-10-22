@@ -1,4 +1,4 @@
-package Complex.email;
+package io.meghatest.Complex.email;
 
 /**
  * Created by mgupta on Oct, 2018
